@@ -1,0 +1,7 @@
+# 画像フォルダは除外
+datasets/cutting/
+datasets/raw/
+datasets/testdata/
+commons/annotation_setting.txt
+*/*.pyc
+*/*/*.pyc
